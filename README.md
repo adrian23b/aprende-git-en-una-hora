@@ -1,4 +1,4 @@
 Instructions
 U --> untracked
-A --> added
-M --> Midle status saved
+A --> Added
+M --> Modified
